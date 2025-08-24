@@ -17,15 +17,16 @@ time, geography, term, purpose, and home ownership.
 ---
 
 ## Dataset used
+[Bank Loan Data](https://github.com/dineshreddy0403/Bank_Loan_Report/blob/main/bank_loan_data.csv)
 
 ---
 ## Dashboard
 
 ### Summary Dashboard
-<img width="1765" height="816" alt="Dashboard" src="https://github.com/user-attachments/assets/62c2a3e1-c97e-452a-8678-cd10c1a6ac43" />
+<img width="1765" height="816" alt="Dashboard" src="https://github.com/dineshreddy0403/Bank_Loan_Report/blob/main/Summary_Dashboard.png" />
 
 ### Overview Dashboard
-<img width="1765" height="816" alt="Dashboard" src="https://github.com/user-attachments/assets/62c2a3e1-c97e-452a-8678-cd10c1a6ac43" />
+<img width="1765" height="816" alt="Dashboard" src="https://github.com/dineshreddy0403/Bank_Loan_Report/blob/main/Overview_Dashboard.png" />
 
 ---
 
